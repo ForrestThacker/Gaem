@@ -1,1 +1,13 @@
-﻿<Properties StartupItem="Gaem/Gaem.csproj" />
+﻿<Properties StartupItem="Gaem/Gaem.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gaem/Game1.cs">
+    <Files>
+      <File FileName="Gaem/Game1.cs" Line="54" Column="2" />
+      <File FileName="Gaem/View/Animation.cs" Line="137" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
